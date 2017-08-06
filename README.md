@@ -68,6 +68,3 @@ The PDP-8 was a 12-bit computer introduced by Digital Equipment Corporation (DEC
 
 * Scott L Baker - SOC design
 
-## License
-
-See the **LICENSE** file in this repository
